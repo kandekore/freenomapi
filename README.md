@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed on your local machine:
 
 ## Installation
 
-1. Clone the repository: ```git clone https://github.com/kandekore/freenomapi.git
+1. Clone the repository: ```git clone https://github.com/kandekore/freenomapi.git```
 
 2. Change into the project directory: ```cd freenomapi
 
@@ -42,7 +42,7 @@ To add your environment variables:
 
 1. In the root of your project, create a new file named `.env`.
 2. Add the following variables to the file: ```API_EMAIL=your_email@example.com
-API_PASSWORD=your_password
+API_PASSWORD=your_password```
 
 Replace `your_email@example.com` and `your_password` with your Freenom API email and password, respectively.
 
@@ -50,7 +50,7 @@ Replace `your_email@example.com` and `your_password` with your Freenom API email
 
 ## Running the Application
 
-To start the application, run the following command in your terminal: ```node server.js
+To start the application, run the following command in your terminal: ```node server.js```
 
 
 Once the server starts, you can visit `http://localhost:3000/` in your browser. 
