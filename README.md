@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed on your local machine:
 
 1. Clone the repository: ```git clone https://github.com/kandekore/freenomapi.git```
 
-2. Change into the project directory: ```cd freenomapi
+2. Change into the project directory: ```cd freenomapi```
 
 ## Adding Dependencies
 
